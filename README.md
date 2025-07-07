@@ -62,12 +62,3 @@ new_product_demand_forecasting_app/
 ├── requirements.txt      # Package dependencies
 └── README.md             # Project documentation
 ```
-
-## 📈 Future Improvements
-
-✅ Incorporate advanced ML models (XGBoost, Neural Networks)  
-✅ Use real-time API-based market signal ingestion  
-✅ Automate historical analog matching  
-✅ Extend dashboard to track product lifecycle performance  
-
-This project demonstrates how machine learning can enhance supply chain decision-making for uncertain, high-risk scenarios like new product launches.
